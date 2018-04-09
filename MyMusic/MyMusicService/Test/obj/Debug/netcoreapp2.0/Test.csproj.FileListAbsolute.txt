@@ -1,0 +1,63 @@
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.pdb
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Entity.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Playlist.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Entity.pdb
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Playlist.pdb
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csproj.CopyComplete
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Entity.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Playlist.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Entity.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Playlist.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csproj.CopyComplete
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Test.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Entity.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Playlist.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Entity.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\bin\Debug\netcoreapp2.0\Playlist.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.csproj.CopyComplete
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Test\obj\Debug\netcoreapp2.0\Test.pdb

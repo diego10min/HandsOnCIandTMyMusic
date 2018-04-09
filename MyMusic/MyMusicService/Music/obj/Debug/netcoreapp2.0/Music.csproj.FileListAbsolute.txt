@@ -1,0 +1,42 @@
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.deps.json
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.json
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.dev.json
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfo.cs
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Entity.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Entity.pdb
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csproj.CopyComplete
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Documents\Code\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.deps.json
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.json
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.dev.json
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Entity.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Entity.pdb
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfo.cs
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csproj.CopyComplete
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Desktop\musica backup\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.deps.json
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.json
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.dev.json
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Music.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Entity.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\bin\Debug\netcoreapp2.0\Entity.pdb
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfo.cs
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.csproj.CopyComplete
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.dll
+C:\Users\diego\Desktop\musica backup\HandsOnCIandTMyMusic\MyMusic\MyMusicService\Music\obj\Debug\netcoreapp2.0\Music.pdb

@@ -1,0 +1,8 @@
+<div class="row" ng-show="vm.show">
+    <div class="column" style="overflow-y: scroll; height:600px;">
+        <library library="vm.library" adicionar="vm.adicionar" buscar="vm.buscarLibrary" playlist="vm.playlist"></library>
+    </div>
+    <div class="column" style="overflow-y: scroll; height:600px;">
+        <playlist playlist="vm.playlist" buscar="vm.buscarUserPlaylist" remover="vm.remover"></playlist>
+    </div>
+</div>

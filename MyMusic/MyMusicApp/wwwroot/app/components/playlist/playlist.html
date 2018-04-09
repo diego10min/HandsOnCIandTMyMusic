@@ -1,0 +1,14 @@
+<div>
+    <h2 style="text-align: center">PLAYLIST</h2>
+    <form ng-submit="vm.buscar(vm.playlist.usuario.nome)">
+        Usuário:
+        <input ng-model="vm.playlist.usuario.nome" ng-minlength="3" style="font-size:14pt;font-family: Verdana, sans-serif;"></input>
+        <button class="fas fa-search" style="font-size:14pt"></button>
+    </form>
+    <hr>
+    <div ng-repeat="item in vm.playlist.playlistMusicas track by item.musicaId">
+        <button ng-click="vm.remover(item.playlistId, item.musica)" class="fas fa-trash" style="margin-top: 5px; display: inline-block;"></button>
+        <div style="display: inline-block;">{{item.musica.artista.nome}} - {{item.musica.nome}}</div>
+        <hr>
+    </div>
+</div>

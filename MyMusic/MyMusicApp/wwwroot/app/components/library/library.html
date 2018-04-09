@@ -1,0 +1,14 @@
+<div>
+    <h2 style="text-align: center">BIBLIOTECA</h2>
+    <form ng-submit="vm.buscar(vm.filter)">
+        Artista/Música: 
+        <input ng-model="vm.filter" ng-minlength="3" style="font-size:14pt;font-family: Verdana, sans-serif;"></input>
+        <button class="fas fa-search" style="font-size:14pt"></button>
+    </form>
+    <hr>
+    <div ng-repeat="item in vm.library track by item.id" ng-disabled="vm.isDisabled(item.id)">
+        <button ng-click="vm.adicionar(vm.playlist.id, item)" ng-disabled="vm.isDisabled(item.id)" class="fas fa-plus" style="margin-top: 5px; display: inline-block;"></button>
+        <div style="display: inline-block;">{{item.artista.nome}} - {{item.nome}}</div>
+        <hr>
+    </div>
+</div>
